@@ -16,10 +16,10 @@ import java.util.Scanner;
 public class CardTrick {
 
     public static void main(String[] args) {
-        System.out.print("Enter the number of picked card: ");
+        System.out.print("Enter your lucky number: ");
         Scanner k1 = new Scanner(System.in);
         int num = k1.nextInt();
-        System.out.print("Enter the suit of picked card: ");
+        System.out.print("Enter the suit of your lucky card: ");
         Scanner k2 = new Scanner(System.in);
         String clr = k2.nextLine();
 
