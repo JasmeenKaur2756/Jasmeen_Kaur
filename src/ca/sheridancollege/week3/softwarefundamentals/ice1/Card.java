@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Modifier: Jasmeen Kaur Bhatia
+ * Student id: 991512713
  */
 package ca.sheridancollege.week3.softwarefundamentals.ice1;
 
