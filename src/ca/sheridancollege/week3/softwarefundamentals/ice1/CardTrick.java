@@ -22,6 +22,11 @@ public class CardTrick {
         System.out.print("Enter the suit of picked card: ");
         Scanner k2 = new Scanner(System.in);
         String clr = k2.nextLine();
+        
+        Card luckyCard = new Card();
+        luckyCard.setValue(6);
+        luckyCard.setSuit("Hearts");
+        System.out.println("My lucky card is "+luckyCard.getValue()+" of "+luckyCard.getSuit);
 
         int va;
         int b;
